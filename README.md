@@ -11,7 +11,7 @@
 
 ### *Never manually login to university WiFi again!*
 
-**Access Made By [Tuskk](https://github.com/Tuskk)** 💎
+**Access Made By [Tuskk](https://github.com/abhishekk-y)** 💎
 
 ---
 
