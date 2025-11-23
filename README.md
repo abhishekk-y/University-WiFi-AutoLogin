@@ -15,12 +15,6 @@
 
 ---
 
-### 📸 Authentication Portal
-
-<img src="assets/auth_screenshot.png" alt="University WiFi Portal" width="600px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-
----
-
 </div>
 
 ## ✨ Features
