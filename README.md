@@ -337,7 +337,7 @@ If this tool saved you time, **give it a star** ⭐ on GitHub!
 
 ## 📞 Contact & Support
 
-**Made with ❤️ by [Tuskk](https://github.com/Tuskk)**
+**Made with ❤️ by [Tuskk](https://github.com/abhishekk-y)**
 
 *For students tired of manual WiFi login* 🎓
 
